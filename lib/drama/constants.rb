@@ -1905,9 +1905,9 @@ module Drama
     ]
 
     BANS = [
-      'call bowser'
-      'move the star'
-      'cover an orb space'
+      'call bowser',
+      'move the star',
+      'cover an orb space',
       'steal a star',
       'shame',
       'destroy',
@@ -1926,7 +1926,7 @@ module Drama
       'a ZIP file',
       'a ASM file',
       'a C file',
-      'a JSON board'
+      'a JSON board',
       'a GitHub repository'
     ]
 

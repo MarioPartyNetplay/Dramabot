@@ -1284,7 +1284,7 @@ module Drama
       'Aringon',
       'Bubis5murf1nDekU',
       'drewby',
-      'Edgy teen that does m',emes
+      'Edgy teen that does memes',
       'gsjan',
       'Hata',
       'KakarotCake',
@@ -1309,7 +1309,7 @@ module Drama
       'RuMuN',
       'ScarFaze',
       'Slickk',
-      'Only played the newes',t one
+      'Only played the newest one',
       'Stxrz',
       'nikki',
       'AleksHD',
